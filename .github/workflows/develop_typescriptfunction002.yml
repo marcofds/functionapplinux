@@ -66,4 +66,4 @@ jobs:
           app-name: 'typescriptfunction002'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1F3294F275414BA9B22BDFF3B1234CFF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_95DC094F24DD4852A627E534DAEBE7BB }}
